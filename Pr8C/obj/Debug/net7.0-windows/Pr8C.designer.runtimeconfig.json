@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Savva\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Savva\\.nuget\\packages"
+      "C:\\Users\\kliker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kliker\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Savva\source\repos\Pr8C\StyleElement\obj\Debug\net7.0-windows\
+C:\Users\kliker\Desktop\Pr8C\StyleElement\obj\Debug\net7.0-windows\
 StyleElement
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 6888773552
 
 2-1963871770
-1981911467256
+1981871740104
 DictionaryStyle.xaml;Themes\ButtonStyle.xaml;Themes\LabelStyle.xaml;Themes\ListBoxStyle.xaml;Themes\TextBlockStyle.xaml;Themes\TextBoxStyle.xaml;
 
 False

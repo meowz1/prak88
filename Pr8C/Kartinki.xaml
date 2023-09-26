@@ -9,11 +9,8 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
-
         </Grid.ColumnDefinitions>
         <Label Content="" Name="LabelText" Background="#FFDADADA" HorizontalContentAlignment="Center" Margin="0,16,10,16" />
-        <Image x:Name="Image" Source="/img/Naryto.jpg" Grid.Column="1" />
-
-
+        <Image x:Name="Image" Source="C:\Users\Savva\Pictures\Screenshots\3.jpg" Grid.Column="1" />
     </Grid>
 </UserControl>

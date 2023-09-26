@@ -15,12 +15,7 @@ namespace Pr8C
     {
         List<Stroka> Stroki = new List<Stroka>();
         List<Kartinki> kartinkis= new List<Kartinki>();
-
         string filename;
-
-      
-
-
         public MainWindow()
         {
             InitializeComponent();
@@ -38,11 +33,7 @@ namespace Pr8C
                     Stroki.Add(k);
                 }
             }
-           
-           
-
         }
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             if (Text.Text != "" & filename != null)
@@ -52,18 +43,14 @@ namespace Pr8C
                 l.Img = filename;
                 Stroki.Add(l);
                 Class1.Serial(Stroki);
-
                 Kartinki element = new Kartinki(Text.Text, filename);
                 ListText.Items.Add(element);
-
             }
             else
             {
                 MessageBox.Show("Заполните поля");
             }
-        }
-       
-       
+        }     
         private void Kartinka_Click(object sender, RoutedEventArgs e)
         {
             CommonOpenFileDialog dialog= new CommonOpenFileDialog();
@@ -75,8 +62,6 @@ namespace Pr8C
                 image.Source = new BitmapImage(uri);
                 Lable.Content = Text.Text;
             }
-        }
-
-       
+        }      
     }
 }

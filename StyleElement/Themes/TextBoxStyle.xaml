@@ -188,13 +188,13 @@
            TargetType="TextBlock"
            x:Key="TitleText">
         <Setter Property="FontSize" Value="26"/>
-        <Setter Property="Background" Value="LightSteelBlue" />
+        <Setter Property="Background" Value="WhiteSmoke" />
         <Setter Property="Foreground">
             <Setter.Value>
                 <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
                     <LinearGradientBrush.GradientStops>
-                        <GradientStop Offset="0.0" Color="white" />
-                        <GradientStop Offset="1.0" Color="#5BFFFF" />
+                        <GradientStop Offset="0.0" Color="red" />
+                        <GradientStop Offset="1.0" Color="Green" />
                     </LinearGradientBrush.GradientStops>
                 </LinearGradientBrush>
             </Setter.Value>

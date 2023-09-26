@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Savva\\source\\repos\\Pr8C\\JsonDeser\\JsonDeser.csproj": {}
+    "C:\\Users\\kliker\\Desktop\\Pr8C\\JsonDeser\\JsonDeser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Savva\\source\\repos\\Pr8C\\JsonDeser\\JsonDeser.csproj": {
+    "C:\\Users\\kliker\\Desktop\\Pr8C\\JsonDeser\\JsonDeser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Savva\\source\\repos\\Pr8C\\JsonDeser\\JsonDeser.csproj",
+        "projectUniqueName": "C:\\Users\\kliker\\Desktop\\Pr8C\\JsonDeser\\JsonDeser.csproj",
         "projectName": "JsonDeser",
-        "projectPath": "C:\\Users\\Savva\\source\\repos\\Pr8C\\JsonDeser\\JsonDeser.csproj",
-        "packagesPath": "C:\\Users\\Savva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Savva\\source\\repos\\Pr8C\\JsonDeser\\obj\\",
+        "projectPath": "C:\\Users\\kliker\\Desktop\\Pr8C\\JsonDeser\\JsonDeser.csproj",
+        "packagesPath": "C:\\Users\\kliker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kliker\\Desktop\\Pr8C\\JsonDeser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Savva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kliker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
