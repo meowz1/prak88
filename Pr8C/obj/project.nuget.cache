@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ShMr7tDV0oS1a/9tznJkVeSJgog0lh5K0Ag/bn/SuDY2sCPmtmru+g5DUx6nXOTfwX3t6vOkFIOlKxrsJYV74g==",
+  "dgSpecHash": "ep17wXj39Ei96UAGERhfrmXboXO6OOVFbQlnfk/4gtknN49FlFdzWdjrpQUmap4BMHvpywLDz1HCpLxSn3U3zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kliker\\Desktop\\Pr8C\\Pr8C\\Pr8C.csproj",
+  "projectFilePath": "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\Pr8C\\Pr8C.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kliker\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\kliker\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
-    "C:\\Users\\kliker\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
+    "C:\\Users\\rezus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rezus\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
+    "C:\\Users\\rezus\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
   ],
   "logs": [
     {

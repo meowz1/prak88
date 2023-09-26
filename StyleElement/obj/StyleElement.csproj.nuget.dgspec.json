@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kliker\\Desktop\\Pr8C\\StyleElement\\StyleElement.csproj": {}
+    "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\StyleElement\\StyleElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kliker\\Desktop\\Pr8C\\StyleElement\\StyleElement.csproj": {
+    "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\StyleElement\\StyleElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kliker\\Desktop\\Pr8C\\StyleElement\\StyleElement.csproj",
+        "projectUniqueName": "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\StyleElement\\StyleElement.csproj",
         "projectName": "StyleElement",
-        "projectPath": "C:\\Users\\kliker\\Desktop\\Pr8C\\StyleElement\\StyleElement.csproj",
-        "packagesPath": "C:\\Users\\kliker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kliker\\Desktop\\Pr8C\\StyleElement\\obj\\",
+        "projectPath": "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\StyleElement\\StyleElement.csproj",
+        "packagesPath": "C:\\Users\\rezus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rezus\\OneDrive\\Desktop\\prak8\\StyleElement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kliker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
